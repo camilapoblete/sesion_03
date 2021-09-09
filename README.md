@@ -32,6 +32,13 @@ Perrito de mi amigo Rodo.
 Este lo hizo un amigo del Anjel
 
 
+
 ![mi_atacazo_artistico_1123123123123](https://user-images.githubusercontent.com/90003734/132759847-bebd3dd5-346b-4231-b192-38dc4319abc2.jpg)
 
 Y este lo hizo el Anjel al saber que podía cambiar el color (sí, cambió de gris a negro).
+
+
+
+![mi_atacazo_artisticoMARRRTIII](https://user-images.githubusercontent.com/90003734/132760202-acc3fe3b-4a07-409d-91ae-97801070db60.jpg)
+
+Y este lo hizo mi amigo Martín.
