@@ -41,4 +41,16 @@ Este lo hizo el Anjel al saber que podía cambiar el color (sí, cambió de gris
 
 ![mi_atacazo_artisticoMARRRTIII](https://user-images.githubusercontent.com/90003734/132760202-acc3fe3b-4a07-409d-91ae-97801070db60.jpg)
 
-Y este lo hizo mi amigo Martín.
+Este lo hizo mi amigo Martín.
+
+
+
+![image](https://user-images.githubusercontent.com/90003734/132762784-28dd7379-2248-4492-b107-cca730d0d08c.png)
+
+Este lo hizo mi amiga Cata.
+
+
+
+![image](https://user-images.githubusercontent.com/90003734/132763128-5be04eac-a589-49bf-86d3-166fc47c85ec.png)
+
+Y este la Isi, una amiga del colegio.
