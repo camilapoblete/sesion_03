@@ -10,7 +10,10 @@
     </head>
     <body>
         <header><h1>Dibuja</h1></header>
-        <footer><a href="#" id="descarga">Descarga</a></footer>
+        <footer> <div id="back"><a href="index.html">back</a></div>
+            <div id="controles"></div>
+            <div id="print"><a href="#" id="aqui">Descarga</a></div>
+        </footer>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
         <script>
             var que = new URLSearchParams(window.location.search).get("dibuja");
@@ -23,6 +26,8 @@
                 background(255);
             }
             function draw() {
+                 stroke(elColor.color());
+                strokeWeight(elSlider.value());
                 if (mouseIsPressed) {
                     line(pmouseX, pmouseY, mouseX, mouseY);
                 }
