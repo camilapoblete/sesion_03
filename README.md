@@ -45,12 +45,12 @@ Este lo hizo mi amigo Martín.
 
 
 
-![image](https://user-images.githubusercontent.com/90003734/132762784-28dd7379-2248-4492-b107-cca730d0d08c.png)
+![catunanana](https://user-images.githubusercontent.com/90003734/132763367-c22c6984-f061-49a3-aff1-a28f6ccc41ec.jpg)
 
 Este lo hizo mi amiga Cata.
 
 
 
-![image](https://user-images.githubusercontent.com/90003734/132763128-5be04eac-a589-49bf-86d3-166fc47c85ec.png)
+![isidib](https://user-images.githubusercontent.com/90003734/132763306-c5ba1adf-fb0f-43ea-a529-462db8f10358.jpg)
 
 Y este la Isi, una amiga del colegio.
