@@ -33,12 +33,6 @@ Este lo hizo un amigo del Anjel
 
 
 
-![mi_atacazo_artistico_2 3333333333333333](https://user-images.githubusercontent.com/90003734/132760759-c65dd960-2f28-4679-92b3-ad816930defc.jpg)
-
-Este lo hizo otro amigo del Anjel, desde un celular.
-
-
-
 ![mi_atacazo_artistico_1123123123123](https://user-images.githubusercontent.com/90003734/132759847-bebd3dd5-346b-4231-b192-38dc4319abc2.jpg)
 
 Este lo hizo el Anjel al saber que podía cambiar el color (sí, cambió de gris a negro).
