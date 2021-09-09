@@ -2,7 +2,9 @@
 Evaluación diagnóstica
 
 ![mi_atacazo_artistico_anjel](https://user-images.githubusercontent.com/90003734/132755884-ec9d0a25-b11f-43a9-913c-115cb5a72674.jpg)
+
 Dibujo de un amigo, el Anjel.
+
 
 ![mi_atacazo_artistico (1)](https://user-images.githubusercontent.com/90003734/132757317-2abb25d0-c4a5-4bd4-ab72-de5a4b5bfb51.jpg)
 Este lo hizo mi amigo Farid.
