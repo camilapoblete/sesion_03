@@ -15,7 +15,14 @@
             <div id="print"><a href="#" id="aqui">Descarga</a></div>
         </footer>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
-        <script>
+        <script> {
+                var d = select("#aqui");
+                d.mousePressed(artemania);
+                createCanvas(windowWidth, windowHeight).position(0, 0).style("z-index", -1);
+                background(240);
+                elColor = createColorPicker("#777777").parent("controles");
+                elSlider = createSlider(1, 5, 3).parent("controles");
+            }
             var que = new URLSearchParams(window.location.search).get("dibuja");
             document.querySelector("h1").textContent += que;
             document.querySelector("a").textContent += que;
